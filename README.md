@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saayishree" alt="saayishree" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C,C++,Python,HTML,CSS,JAVA SCRIPT**
+
+- 💬 Ask me about **C,C++
 
 - 📫 How to reach me **gopavaramsaayishree@gmail.com**
 
